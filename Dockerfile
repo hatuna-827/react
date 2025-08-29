@@ -1,2 +1,2 @@
 FROM node:lts-alpine3.22
-WORKDIR /
+WORKDIR /app
